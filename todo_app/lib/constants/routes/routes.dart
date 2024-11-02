@@ -1,6 +1,4 @@
 
-
-
 import 'package:flutter/material.dart';
 import 'package:todo_app/View/todo_screen/splash_screen.dart';
 import 'package:todo_app/View/todo_screen/todo_list.dart';

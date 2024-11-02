@@ -31,6 +31,7 @@ class _TodoListScreenState extends State<TodoListScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: AppColors.blackColor,
       appBar: CustomAppBar(
         title: 'Todo List',
         titleTextStyle: MyTextStyles.appBarTitle,
